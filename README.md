@@ -1,11 +1,16 @@
 <h1 align="center">Oh, hey! 👋</h1>
 
-## I edit text files for fun
+## I edit text files for fun!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavan-raja/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/flipped_flop)
 [![Codeforces](https://img.shields.io/badge/Codeforces-B61F24?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/madhavan_raja)
 
-## And I also try to make music!
+## If you are here from Reddit, these are what you might be looking for
+[![Dotfiles](https://img.shields.io/badge/Dotfiles-34BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://github.com/madhavan-raja/dotfiles)
+[![Emacs Config](https://img.shields.io/badge/Emacs%20Config-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white)](https://github.com/madhavan-raja/emacs-config)
+
+## And I also make music
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUJpBtAPxeklEVsFopd03Uw)
 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCw2X4qo9A8116sQ85CsdhTg)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0i3NYGd9w6DaHSXCE0eq2R)
