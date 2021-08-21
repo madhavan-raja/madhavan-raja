@@ -7,7 +7,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/madhavan_raja)
 
 ## If you are here from Reddit, these are what you might be looking for
-[![Dotfiles](https://img.shields.io/badge/Dotfiles-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://github.com/madhavan-raja/dotfiles)
+[![Dotfiles](https://img.shields.io/badge/Dotfiles-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/madhavan-raja/dotfiles)
 [![Emacs Config](https://img.shields.io/badge/Emacs%20Config-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white)](https://github.com/madhavan-raja/emacs-config)
 
 ## And I also make music
