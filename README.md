@@ -1,4 +1,4 @@
-<h1 align="center">Oh, hey! 👋</h1>
+<h1 align="center">Oh hey! 👋</h1>
 
 ## I edit text files for a living
 
