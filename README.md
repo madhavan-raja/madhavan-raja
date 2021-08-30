@@ -1,6 +1,6 @@
 <h1 align="center">Oh, hey! 👋</h1>
 
-## I edit text files for a living
+## I edit text files for a living.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavan-raja/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/flipped_flop)
