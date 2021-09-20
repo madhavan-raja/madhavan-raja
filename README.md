@@ -11,7 +11,7 @@
 [![Neovim Config](https://img.shields.io/badge/Neovim%20Config-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/madhavan-raja/dotfiles/tree/master/.config/nvim)
 [![Emacs Config](https://img.shields.io/badge/Emacs%20Config-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white)](https://github.com/madhavan-raja/emacs-config)
 
-## And I also make music
+## And I also make music!
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUJpBtAPxeklEVsFopd03Uw)
 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCw2X4qo9A8116sQ85CsdhTg)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0i3NYGd9w6DaHSXCE0eq2R)
