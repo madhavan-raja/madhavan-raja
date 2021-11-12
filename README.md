@@ -17,5 +17,3 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0i3NYGd9w6DaHSXCE0eq2R)
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/us/artist/cute-fluffy-kitten/1526052115)
 [![Prime Music](https://img.shields.io/badge/Prime%20Music-00A8E1?style=for-the-badge&logo=amazonprime&logoColor=white)](https://www.amazon.com/gp/product/B08F4HLGHF/)
-
-</html>
