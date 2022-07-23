@@ -8,7 +8,7 @@
 [![Dotfiles](https://img.shields.io/badge/Dotfiles-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/madhavan-raja/dotfiles) [![Neovim Config](https://img.shields.io/badge/Neovim%20Config-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/madhavan-raja/dotfiles/tree/master/.config/nvim) [![Emacs Config](https://img.shields.io/badge/Emacs%20Config-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white)](https://github.com/madhavan-raja/emacs-config)
 
 ## Stuff I am working on right now
-[![Fur DB](https://img.shields.io/badge/Fur%20DB-5E0E0E?style=for-the-badge)](https://github.com/madhavan-raja/furdb) [![Fur Converter](https://img.shields.io/badge/Fur%20Converter-3E0E0E?style=for-the-badge)](https://github.com/madhavan-raja/fur-converter)
+[![Fur DB](https://img.shields.io/badge/Fur%20DB-5E0E0E?style=for-the-badge)](https://github.com/furdb/furdb) [![Fur Converter](https://img.shields.io/badge/Fur%20Converter-3E0E0E?style=for-the-badge)](https://github.com/furdb/fur-converter)
 
 ## And I also make music!
 [![Cute Fluffy Kitten](https://img.shields.io/badge/Cute%20Fluffy%20Kitten-000000?style=for-the-badge&logo=linktree)](https://linktr.ee/cutefluffykitten)
