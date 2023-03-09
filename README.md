@@ -7,7 +7,7 @@
 ## If you are here from Reddit, these are probably what you are looking for...
 [![Dotfiles](https://img.shields.io/badge/Dotfiles-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/madhavan-raja/dotfiles) [![Emacs Config](https://img.shields.io/badge/Emacs%20Config-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white)](https://github.com/madhavan-raja/emacs-config)
 
-## Stuff I am (kinda) working on
+## Stuff I am (kinda) working on...
 [![Fur DB](https://img.shields.io/badge/Fur%20DB-495C83?style=for-the-badge)](https://github.com/furdb/) [![Coen](https://img.shields.io/badge/Coen-d5896f?style=for-the-badge)](https://github.com/coenproject/)
 
 ## And I also make music!
