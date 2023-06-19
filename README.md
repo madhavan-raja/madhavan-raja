@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Oh, hey! 👋</h1>
+  <img src="pizza.gif" width="100%" alt="Pizza" />
 </div>
 
 ## I used to edit text files professionally
