@@ -1,7 +1,8 @@
 <div align="center">
-  <h1>Oh, hey! 👋</h1>
-  <img src="pizza.gif" width="100%" alt="Pizza" />
+  <h1>Hello! 👋</h1>
 </div>
+<p>I'm Madhavan, a Computer Science graduate student studying at Arizona State University.</p>
+<img src="pizza.gif" width="100%" alt="Pizza" />
 
 ## I used to edit text files professionally
 
