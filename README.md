@@ -19,7 +19,7 @@
 [![Fur DB](https://img.shields.io/badge/Fur%20DB-495C83?style=for-the-badge)](https://github.com/furdb/)
 [![Coen](https://img.shields.io/badge/Coen-714955?style=for-the-badge)](https://github.com/coenproject/)
 [![Decorate Markdown](https://img.shields.io/badge/Decorate%20Markdown-5d576b?style=for-the-badge)](https://github.com/decorate-markdown/)
-[![Decorate Markdown](https://img.shields.io/badge/py2quantikz-47a141?style=for-the-badge)]([https://github.com/decorate-markdown/](https://github.com/madhavan-raja/py2quantikz))
+[![Decorate Markdown](https://img.shields.io/badge/py2quantikz-47a141?style=for-the-badge)](https://github.com/madhavan-raja/py2quantikz)
 
 ## And I also make music!
 [![Cute Fluffy Kitten](https://img.shields.io/badge/Cute%20Fluffy%20Kitten-000000?style=for-the-badge&logo=linktree)](https://linktr.ee/cutefluffykitten)
