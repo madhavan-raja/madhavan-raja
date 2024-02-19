@@ -17,10 +17,10 @@
 
 ## Stuff I am working on right now
 [![Fur DB](https://img.shields.io/badge/Fur%20DB-495C83?style=for-the-badge)](https://github.com/furdb/)
-[![Assignmeownt](https://img.shields.io/badge/Assignmeownt-46A249?style=for-the-badge)](https://github.com/madhavan-raja/assignmeownt/)
 [![Coen](https://img.shields.io/badge/Coen-714955?style=for-the-badge)](https://github.com/coenproject/)
 [![Decorate Markdown](https://img.shields.io/badge/Decorate%20Markdown-5d576b?style=for-the-badge)](https://github.com/decorate-markdown/)
 [![Py2Quantikz](https://img.shields.io/badge/py2quantikz-b03608?style=for-the-badge)](https://github.com/madhavan-raja/py2quantikz)
+[![Assignmeownt](https://img.shields.io/badge/Assignmeownt-46A249?style=for-the-badge)](https://github.com/madhavan-raja/assignmeownt/)
 
 ## And I also make music!
 [![Cute Fluffy Kitten](https://img.shields.io/badge/Cute%20Fluffy%20Kitten-000000?style=for-the-badge&logo=linktree)](https://linktr.ee/cutefluffykitten)
