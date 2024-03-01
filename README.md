@@ -11,7 +11,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/majestic_flop)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/madhavan_raja)
 
-## If you are here from Reddit, these are probably what you are looking for
+## If you are here from Reddit, these are probably what you are looking for...
 [![Dotfiles](https://img.shields.io/badge/Dotfiles-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/madhavan-raja/dotfiles-wsl)
 [![Emacs Config](https://img.shields.io/badge/Emacs%20Config-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white)](https://github.com/madhavan-raja/emacs-config)
 
