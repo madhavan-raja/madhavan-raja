@@ -16,7 +16,7 @@
 [![Emacs Config](https://img.shields.io/badge/Emacs%20Config-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white)](https://github.com/madhavan-raja/emacs-config)
 
 ## Stuff I am working on right now
-[![Fur DB](https://img.shields.io/badge/Fur%20DB-495C83?style=for-the-badge)](https://github.com/furdb/furdb)
+[![Fur DB](https://img.shields.io/badge/Fur%20DB-495C83?style=for-the-badge)](https://github.com/madhavan-raja/furdb)
 [![Coen](https://img.shields.io/badge/Coen-714955?style=for-the-badge)](https://github.com/coenproject/)
 [![Decorate Markdown](https://img.shields.io/badge/Decorate%20Markdown-5d576b?style=for-the-badge)](https://github.com/decorate-markdown/)
 [![Py2Quantikz](https://img.shields.io/badge/py2quantikz-b03608?style=for-the-badge)](https://github.com/madhavan-raja/py2quantikz)
