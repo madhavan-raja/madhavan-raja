@@ -6,7 +6,7 @@
 
 ## I used to edit text files professionally
 
-[![Personal Website](https://img.shields.io/badge/Website-282828?style=for-the-badge&logoColor=white)](https://www.madhavanraja.me/)
+[![Personal Website](https://img.shields.io/badge/Website-282828?style=for-the-badge&logoColor=white)](https://www.madhavanraja.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavan-raja/)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-384D54?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repositories/madhavanraja)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/majestic_flop)
