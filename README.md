@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello! 👋</h1>
-  <h4>I'm Madhavan, a Software Engineer at Fortinet and a Computer Science graduate student from Arizona State University.</h4>
+  <h4>I'm Madhavan, a Software Engineer at Fortinet and a Computer Science graduate from Arizona State University.</h4>
 </div>
 <img src="pizza.gif" width="100%" alt="Pizza" />
 
