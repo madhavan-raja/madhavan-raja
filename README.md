@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hello! 👋</h1>
-  <h4>I'm Madhavan, a Computer Science graduate student studying at Arizona State University.</h4>
+  <h4>I'm Madhavan, a Software Engineer at Fortinet and a Computer Science graduate student from Arizona State University.</h4>
 </div>
 <img src="pizza.gif" width="100%" alt="Pizza" />
 
-## I used to edit text files professionally
+## I edit text files professionally
 
 [![Personal Website](https://img.shields.io/badge/Website-282828?style=for-the-badge&logoColor=white)](https://www.madhavanraja.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavan-raja/)
